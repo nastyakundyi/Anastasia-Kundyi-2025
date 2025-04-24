@@ -14,7 +14,7 @@ If you like the template and find it useful, please help us spread the word :-)
 
 Live Preview
 =======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+[http://www.htmlcoder.me/preview/worthy/v.1.0](https://html-templates.info/landing-html-templates/universalnyiy-lending-s-priyatnyim-vneshnim-vidomworthy)
 
 License
 =======================================================================
